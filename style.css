@@ -1,1 +1,12 @@
-
+:root{
+    --verde-escuro: #1c4d1c;
+    --preto: #000000;
+    --verde: #458544;
+    --verdinho: #a7e1a6;
+}
+.cabecalio{
+    background-color: #458544;
+}
+.logo{
+    width: 10%;
+}
