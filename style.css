@@ -4,9 +4,20 @@
     --verde: #458544;
     --verdinho: #a7e1a6;
 }
-.cabecalio{
+.cabecalho{
     background-color: #458544;
+    display: flex;
+    justify-content: space-between;
 }
+
+.menu-item{
+    display: inline-block;
+    padding: 5px;
+    color: #000000 ;
+}
+
+
 .logo{
-    width: 10%;
+    width: 10%; 
+    margin: 10px;
 }
