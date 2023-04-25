@@ -30,5 +30,13 @@
 
 .principal{
    background-color: var(--verdinho);
-   background-image: linear-gradient(var(--preto),var(--verdinho));
+   display: flex;
+   justify-content: center;
+}
+.principal-titulo{
+    font-size: 64px;
+}
+.principal-texto{
+    padding: 20px;
+    font-size: 25px;
 }
